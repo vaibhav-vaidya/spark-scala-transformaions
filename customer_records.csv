@@ -1,18 +1,18 @@
 customer_id,customer_fname,customer_lname,customer_email,customer_pwd,customer_street,customer_city,customer_state,zip_code,number_of_orders,voice_mail_active
-1,Richard,Hernandez,XXXXXXXXX,XXXXXXXXX,6303 Heather Plaza,Brownsville,TX,78521,25,yes
+1,Richard,Hernandez,XXXXXXXXX,XXXXXXXXX,6303 Heather Plaza,Brownsville,TXX,78521,25,yes
 2,Mary,Barrett,XXXXXXXXX,XXXXXXXXX,9526 Noble Embers Ridge,Littleton,CO,80126,26,yes
 3,Ann,Smith,XXXXXXXXX,XXXXXXXXX,3422 Blue Pioneer Bend,Caguas,PR,725,0,no
 4,Mary,Jones,XXXXXXXXX,XXXXXXXXX,8324 Little Common,San Marcos,CA,92069,0,no
 5,Robert,Hudson,XXXXXXXXX,XXXXXXXXX,10 Crystal River Mall,Caguas,PR,725,0,no
 6,Mary,Smith,XXXXXXXXX,XXXXXXXXX,3151 Sleepy Quail Promenade,Passaic,NJ,7055,0,no
-7,Melissa,Wilcox,XXXXXXXXX,XXXXXXXXX,9453 High Concession,Caguas,PR,725,24,yes
+7,Melissa,Wilcox,XXXXXXXXX,XXXXXXXXX,9453 High Concession,Caguas,PRR,725,24,yes
 8,Megan,Smith,XXXXXXXXX,XXXXXXXXX,3047 Foggy Forest Plaza,Lawrence,MA,1841,0,no
 9,Mary,Perez,XXXXXXXXX,XXXXXXXXX,3616 Quaking Street,Caguas,PR,725,0,no
 10,Melissa,Smith,XXXXXXXXX,XXXXXXXXX,8598 Harvest Beacon Plaza,Stafford,VA,22554,37,yes
-11,Mary,Huffman,XXXXXXXXX,XXXXXXXXX,3169 Stony Woods,Caguas,PR,725,0,no
+11,Mary,Huffman,XXXXXXXXX,XXXXXXXXX,3169 Stony Woods,Caguas,PRR,725,0,no
 12,Christopher,Smith,XXXXXXXXX,XXXXXXXXX,5594 Jagged Embers By-pass,San Antonio,TX,78227,0,no
 13,Mary,Baldwin,XXXXXXXXX,XXXXXXXXX,7922 Iron Oak Gardens,Caguas,PR,725,0,no
-14,Katherine,Smith,XXXXXXXXX,XXXXXXXXX,5666 Hazy Pony Square,Pico Rivera,CA,90660,0,no
+14,Katherine,Smith,XXXXXXXXX,XXXXXXXXX,5666 Hazy Pony Square,Pico Rivera,CAA,90660,0,no
 15,Jane,Luna,XXXXXXXXX,XXXXXXXXX,673 Burning Glen,Fontana,CA,92336,0,no
 16,Tiffany,Smith,XXXXXXXXX,XXXXXXXXX,6651 Iron Port,Caguas,PR,725,0,no
 17,Mary,Robinson,XXXXXXXXX,XXXXXXXXX,1325 Noble Pike,Taylor,MI,48180,27,yes
@@ -12432,5 +12432,5 @@ customer_id,customer_fname,customer_lname,customer_email,customer_pwd,customer_s
 12431,Mary,Rios,XXXXXXXXX,XXXXXXXXX,1221 Cinder Pines,Kaneohe,HI,96744,31,yes
 12432,Angela,Smith,XXXXXXXXX,XXXXXXXXX,1525 Jagged Barn Highlands,Caguas,PR,725,0,no
 12433,Benjamin,Garcia,XXXXXXXXX,XXXXXXXXX,5459 Noble Brook Landing,Levittown,NY,11756,0,no
-12434,Mary,Mills,XXXXXXXXX,XXXXXXXXX,9720 Colonial Parade,Caguas,PR,725,0,no
-12435,Laura,Horton,XXXXXXXXX,XXXXXXXXX,5736 Honey Downs,Summerville,SC,29483,23,yes
+12434,Mary,Mills,XXXXXXXXX,XXXXXXXXX,9720 Colonial Parade,Caguas,PRR,725,0,no
+12435,Laura,Horton,XXXXXXXXX,XXXXXXXXX,5736 Honey Downs,Summerville,SCC,29483,23,yes
